@@ -92,12 +92,9 @@
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/Zwsss" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
+            <a <a href="https://doodstream.com/join/r91sc76so4ed"><img style="width:100%;height:auto;max-width:720px;" src="//i.doodcdn.com/img/728x90.gif" alt="DoodStream - Upload videos share & make money"></a>
             </a></div>
 <br />
 
 ----
+<a href="https://doodstream.com/join/r91sc76so4ed"><img style="width:100%;height:auto;max-width:720px;" src="//i.doodcdn.com/img/728x90.gif" alt="DoodStream - Upload videos share & make money"></a>
